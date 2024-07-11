@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  max-width: 1111px;
+  margin: 0 auto;
+}
+body {
+  margin-top: 100px;
+  text-align: center;
+  background-color: burlywood;
+}
+#div {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+}
+#inp {
+  padding: 5px 10px;
+}
+#btn {
+  padding: 5px 50px;
+}
